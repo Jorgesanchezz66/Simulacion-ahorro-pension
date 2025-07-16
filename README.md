@@ -1,5 +1,4 @@
-# Contenido del archivo README.md
-readme_content = '''
+
 #  Simulador de Ahorro para la Jubilación
 
 Esta aplicación interactiva permite simular el capital acumulado al momento de la jubilación en función del perfil de riesgo, la edad, la aportación mensual y la inflación estimada. Está desarrollada en Python usando Streamlit y basada en principios de optimización financiera y planificación patrimonial.
@@ -8,11 +7,11 @@ Esta aplicación interactiva permite simular el capital acumulado al momento de 
 
 ##  ¿Qué puedes hacer con esta app?
 
-✅ Calcular tu capital estimado a la jubilación  
-✅ Simular tres escenarios: pesimista, medio y optimista  
-✅ Ajustar los resultados por inflación (euros constantes)  
-✅ Visualizar tu cartera óptima con rebalanceo anual automático  
-✅ Comparar el capital acumulado con la inversión total realizada
+- Calcular tu capital estimado a la jubilación  
+- Simular tres escenarios: pesimista, medio y optimista  
+- Ajustar los resultados por inflación (euros constantes)  
+- Visualizar tu cartera óptima con rebalanceo anual automático  
+- Comparar el capital acumulado con la inversión total realizada
 
 ---
 
