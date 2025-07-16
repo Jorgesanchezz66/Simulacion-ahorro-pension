@@ -23,10 +23,6 @@ Puedes probarla directamente desde tu navegador (no requiere instalación):
 
 🔗 [Abrir app en Streamlit Cloud](https://simulacion-ahorro-pension-2ln3mkve8jrwx5yufzaewu.streamlit.app/))
 
-> Sustituye `<TU-URL>` por tu enlace real de Streamlit cuando esté desplegada.
-
----
-
 ### 🛠️ Versión local
 
 1. Clona este repositorio o descarga los archivos:
